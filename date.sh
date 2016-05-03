@@ -1,0 +1,2 @@
+uname -v;
+date;
